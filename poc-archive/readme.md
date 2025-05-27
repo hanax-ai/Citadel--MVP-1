@@ -1,1 +1,0 @@
-Inside each folder, create a simple README.md file
